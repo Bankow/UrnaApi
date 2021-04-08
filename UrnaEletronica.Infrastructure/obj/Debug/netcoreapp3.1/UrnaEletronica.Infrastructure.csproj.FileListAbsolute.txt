@@ -1,0 +1,11 @@
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Infrastructure\obj\Debug\netcoreapp3.1\UrnaEletronica.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Infrastructure\obj\Debug\netcoreapp3.1\UrnaEletronica.Infrastructure.AssemblyInfo.cs
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Infrastructure\bin\Debug\netcoreapp3.1\UrnaEletronica.Infrastructure.deps.json
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Infrastructure\bin\Debug\netcoreapp3.1\UrnaEletronica.Infrastructure.dll
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Infrastructure\bin\Debug\netcoreapp3.1\UrnaEletronica.Infrastructure.pdb
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Infrastructure\bin\Debug\netcoreapp3.1\UrnaEletronica.Domain.dll
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Infrastructure\bin\Debug\netcoreapp3.1\UrnaEletronica.Domain.pdb
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Infrastructure\obj\Debug\netcoreapp3.1\UrnaEletronica.Infrastructure.csprojAssemblyReference.cache
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Infrastructure\obj\Debug\netcoreapp3.1\UrnaEletronica.Infrastructure.csproj.CopyComplete
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Infrastructure\obj\Debug\netcoreapp3.1\UrnaEletronica.Infrastructure.dll
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Infrastructure\obj\Debug\netcoreapp3.1\UrnaEletronica.Infrastructure.pdb

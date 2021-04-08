@@ -1,0 +1,8 @@
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\netcoreapp3.1\UrnaEletronica.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\netcoreapp3.1\UrnaEletronica.Domain.AssemblyInfo.cs
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Domain\bin\Debug\netcoreapp3.1\UrnaEletronica.Domain.deps.json
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Domain\bin\Debug\netcoreapp3.1\UrnaEletronica.Domain.dll
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Domain\bin\Debug\netcoreapp3.1\UrnaEletronica.Domain.pdb
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\netcoreapp3.1\UrnaEletronica.Domain.dll
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\netcoreapp3.1\UrnaEletronica.Domain.pdb
+C:\Users\lucas_bankow\Documents\Projetos\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\netcoreapp3.1\UrnaEletronica.Domain.csprojAssemblyReference.cache
